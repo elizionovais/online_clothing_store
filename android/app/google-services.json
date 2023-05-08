@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "116210962196",
+    "project_id": "virtual-store-46aac",
+    "storage_bucket": "virtual-store-46aac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116210962196:android:7e1bb3453e6f605eea7c01",
+        "android_client_info": {
+          "package_name": "com.example.online_clothing_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116210962196-oh8i5obm8c7ds858h9b2l86l6hsnshe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyjgujSmlwCmB3Orfwl-1cb_3yqsQ1YSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116210962196-oh8i5obm8c7ds858h9b2l86l6hsnshe8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116210962196-np5uokhats4llfqi5cfe5k1ve17ensd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onlineClothingStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
